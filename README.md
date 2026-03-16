@@ -14,9 +14,9 @@ This is a classic Tic-Tac-Toe (Jogo da Velha) developed in **C** to practice mul
 * **Input Validation:** Implementation of checks to prevent overwriting moves or entering invalid coordinates.
 
 ### 💻 How to run
-1. **Compile** the code:
+1. **Compile** using the provided Makefile:
    ```bash
-   gcc velha.c -o velha
+   make all
 
 2. **Run** the executable:
    ```bash
